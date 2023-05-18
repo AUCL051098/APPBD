@@ -20,10 +20,10 @@
       <div class="card card-body">
         <form action="save_task.php" method="POST">
           <div class="form-group">
-            <input type="text" name="title" class="form-control" placeholder="Nombre del empleado" autofocus>
+            <input type="text" name="title" class="form-control" placeholder="Numero de artículo" autofocus>
           </div>
           <div class="form-group">
-            <textarea name="description" rows="2" class="form-control" placeholder="Área/Numero de empleado"></textarea>
+            <textarea name="description" rows="2" class="form-control" placeholder="Departamento"></textarea>
           </div>
           <input type="submit" name="save_task" class="btn btn-success btn-block" value="Guardar">
         </form>
@@ -33,9 +33,9 @@
       <table class="table table-bordered">
         <thead>
           <tr>
-            <th>Nombre Empleado</th>
-            <th>Área/Numero de empleado</th>
-            <th>Ingreso</th>
+            <th>Numero de artículo</th>
+            <th>Departamento</th>
+            <th>Fecha de registro articulo</th>
             <th>Acción</th>
           </tr>
         </thead>
