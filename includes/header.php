@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Registro de artículos nuevos de Tienda</title>
+    <title>Registro de Artículos Nuevos de Tienda</title>
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     
     <link rel="stylesheet" href="https://bootswatch.com/4/superhero/bootstrap.min.css">
@@ -13,6 +13,6 @@
 
     <nav class="navbar navbar-dark bg-dark">
       <div class="container">
-        <a class="navbar-brand" href="index.php">Registro de Artículos de Tienda</a>
+        <a class="navbar-brand" href="index.php">Registro de Artículos Nuevos de Tienda</a>
       </div>
     </nav>
