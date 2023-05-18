@@ -13,6 +13,6 @@
 
     <nav class="navbar navbar-dark bg-dark">
       <div class="container">
-        <a class="navbar-brand" href="index.php">Registro de Artículos</a>
+        <a class="navbar-brand" href="index.php">Registro de Artículos de tienda</a>
       </div>
     </nav>
